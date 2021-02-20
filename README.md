@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 ![tech7billie's github stats](https://github-readme-stats.vercel.app/api?username=tech7billie&show_icons=true) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tech7billie&layout=compact)](https://github.com/tech7billie)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tech7billie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
