@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![tech7billie's github stats](https://github-readme-stats.vercel.app/api?username=tech7billie&show_icons=true) 
+![dev-chaebeen's github stats](https://github-readme-stats.vercel.app/api?username=dev-chaebeen&show_icons=true) 
 
